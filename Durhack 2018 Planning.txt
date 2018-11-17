@@ -1,0 +1,2 @@
+﻿Durhack 2018 Planning
+* Creating a virtual environment that copies folders on one’s Desktop and represents it as a room with folders/files on walls

@@ -1,7 +1,9 @@
 status
 
-move
-scroll
-select
-click
-right click
+move -one finger
+scroll -two fingers
+select -quick snap down 2 fingers
+click -close hand
+right click -3 finger snap down 
+
+

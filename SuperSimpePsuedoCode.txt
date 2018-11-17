@@ -1,0 +1,7 @@
+status
+
+move
+scroll
+select
+click
+right click

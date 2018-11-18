@@ -1,2 +1,2 @@
-# DurHackVR
-VR project for DurHack
+# DurHack
+Mouse control project for DurHack

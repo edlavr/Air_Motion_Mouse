@@ -7,3 +7,5 @@ click -close hand
 right click -3 finger snap down 
 
 
+
+

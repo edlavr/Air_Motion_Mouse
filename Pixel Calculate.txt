@@ -1,0 +1,8 @@
+Screen Pixel
+2560 x 1600
+
+Tracker Pixel
+400 x 275
+
+Horizontal Travel: 1 Track Unit to 6.4 Pixels
+Vertical Tracel: 1 Track Unit to 5.81 

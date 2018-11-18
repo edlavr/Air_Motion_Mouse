@@ -2,7 +2,7 @@
 # Copyright (C) 2012-2013 Leap Motion, Inc. All rights reserved.                     #
 # SDK: https://developer.leapmotion.com/                                             #
 # Creators: Eduard Lavrishchev, Tim Zhang, Jack Reeves, Aihui Yang                   #
-# Libraries used: Leap (for Leap Motion), PyAutoGUI (for mouse and keyboard control  #
+# Libraries used: Leap (for Leap Motion), PyAutoGUI (for mouse and keyboard control)  #
 ######################################################################################
 
 import sys

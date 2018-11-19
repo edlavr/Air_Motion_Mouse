@@ -1,6 +1,6 @@
 # Air Motion Mouse
 
-A project using Leap Motion to control mouse
+A hackathon project that uses Leap Motion to control mouse
 
 
 
@@ -10,4 +10,5 @@ For this year’s Durhack challenge, we were asked to create something related t
 
 **Further information is located in Project Log**
 
+> Devices used: Leap Motion
 > Libraries used: Leap (for Leap Motion), PyAutoGUI (for mouse and keyboard control)

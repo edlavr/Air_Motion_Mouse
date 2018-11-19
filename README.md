@@ -3,6 +3,8 @@
 A hackathon project that uses Leap Motion to control mouse
 
 
+### Update: Our project has achieved top-6 on DurHack, as well as won in a nomination 'Best use of tech' by Bloomberg!
+
 
 ## Project Description:
 
